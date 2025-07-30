@@ -4,7 +4,7 @@
 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sona-s29&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ![](https://github-profile-trophy.vercel.app/?username=sona-s29&theme=rose&no-frame=false&no-bg=false&margin-w=4)
