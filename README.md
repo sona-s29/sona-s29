@@ -7,7 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=sona-s29&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-![](https://github-profile-trophy.vercel.app/?username=sona-s29&theme=rose&no-frame=false&no-bg=false&margin-w=4)
 - 🔭 I’m currently working on **building real-world projects while sharpening my skills in React, Node.js, and MongoDB**
 - 🌱 I’m currently learning **Advanced React.js concepts, backend architecture with Express.js, and modern UI/UX design practices**
 - 👯 I’m looking to collaborate on **Open-source or freelance web development projects**
