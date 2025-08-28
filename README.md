@@ -13,6 +13,8 @@
 - 👯 I’m looking to collaborate on **Open-source or freelance web development projects**
 - 💬 Ask me about **React, responsive design, and building full-stack MERN applications**
 - 📫 How to reach me: **sona2529001@gmail.com**
+- 🌐Personal Portfolio: **[Portfolio](https://personal-portfolio-sona.vercel.app/)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
