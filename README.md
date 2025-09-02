@@ -1,6 +1,6 @@
 <h1 align="center">Hey Everyone👋, I'm Sona</h1>
 
-<h3 align="center">Web Developer focused on creating modern, performant, and accessible digital experiences using the MERN stack</h3>
+<h3 align="center">Full-Stack Developer focused on creating modern, performant, and accessible digital experiences using the MERN stack</h3>
 
 
 <p align="left">
