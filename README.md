@@ -33,9 +33,7 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
 
-<p><img align="left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sona-s29&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sona-s29&theme=rose&hide_border=false&include_all_commits=true&count_private=true" /></p>
+
 
 ---
 ### 🔥 GitHub Contribution Streak
